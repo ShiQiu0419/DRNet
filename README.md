@@ -11,7 +11,7 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
 
 ## Motivation
 <p align="center">
-  <img width="600" src="https://github.com/ShiQiu0419/Geometric-Feedback-Network-for-Point-Cloud-Classification/blob/master/overview2.png">
+  <img width="600" src="https://github.com/ShiQiu0419/DRNet/blob/master/intro.png">
 </p>
 
 ## Implementation
