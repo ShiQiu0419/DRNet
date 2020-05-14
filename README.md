@@ -30,6 +30,17 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
   <img width="500" src="https://github.com/ShiQiu0419/DRNet/blob/master/cls.png">
 </p>
 
+## Implementation
+* Python 3.6
+* Pytorch 1.3.0
+* Cuda 10.0
+
+## Visualization
+**Adaptive Dilated Point Grouping (ADPG) algorithm**
+<p align="center">
+  <img width="800" src="https://github.com/ShiQiu0419/DRNet/blob/master/visual.png">
+</p>
+
 ## Citation
 
 If you find our paper is useful, please cite:
