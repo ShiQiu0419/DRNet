@@ -22,12 +22,12 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
 ## Experimental Results
 **Segmentation Task: [ShapeNet Part](https://shapenet.cs.stanford.edu/media/shapenetcore_partanno_segmentation_benchmark_v0_normal.zip)**
 <p align="center">
-  <img width="600" src="https://github.com/ShiQiu0419/DRNet/blob/master/partseg.png">
+  <img width="800" src="https://github.com/ShiQiu0419/DRNet/blob/master/partseg.png">
 </p>
 
 **Classification Task: [ModelNet40](https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip) and [ScanObjectNN](https://github.com/hkust-vgd/scanobjectnn/)**
 <p align="center">
-  <img width="600" src="https://github.com/ShiQiu0419/DRNet/blob/master/cls.png">
+  <img width="500" src="https://github.com/ShiQiu0419/DRNet/blob/master/cls.png">
 </p>
 
 ## Citation
