@@ -44,7 +44,7 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
 
 If you find our paper is useful, please cite:
 
-        @article{qiu2019geometric,
+        @article{qiu2020dense,
           title={Dense-Resolution Network for Point Cloud Classification and Segmentation},
           author={Qiu, Shi and Anwar, Saeed and Barnes, Nick},
           journal={arXiv preprint arXiv:2005.06734},
