@@ -1,7 +1,7 @@
 # Dense-Resolution Network for Point Cloud Classification and Segmentation
 This repository is for Dense-Resolution Networ (DRNet) introduced in the following paper
 
-[Shi Qiu](https://shiqiu0419.github.io/), [Saeed Anwar](https://saeed-anwar.github.io/),  [Nick Barnes](http://users.cecs.anu.edu.au/~nmb/), "Dense-Resolution Network for Point Cloud Classification and Segmentation" 
+[Shi Qiu](https://shiqiu0419.github.io/), [Saeed Anwar](https://saeed-anwar.github.io/),  [Nick Barnes](http://users.cecs.anu.edu.au/~nmb/), "Dense-Resolution Network for Point Cloud Classification and Segmentation", acceptd in *IEEE Winter Conference on Applications of Computer Vision* (WACV 2021)
 
 ## Paper
 The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2005.06734)
