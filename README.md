@@ -29,7 +29,7 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
 
 **Classification Task: [ModelNet40](https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip) and [ScanObjectNN](https://github.com/hkust-vgd/scanobjectnn/)**
 <p align="center">
-  <img width="600" src="https://github.com/ShiQiu0419/DRNet/blob/master/modelnet.png">
+  <img width="450" src="https://github.com/ShiQiu0419/DRNet/blob/master/modelnet.png">
 </p>
 <p align="center">
   <img width="900" src="https://github.com/ShiQiu0419/DRNet/blob/master/scanobjectnn.png">
