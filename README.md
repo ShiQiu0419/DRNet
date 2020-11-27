@@ -32,7 +32,7 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
   <img width="600" src="https://github.com/ShiQiu0419/DRNet/blob/master/modelnet.png">
 </p>
 <p align="center">
-  <img width="600" src="https://github.com/ShiQiu0419/DRNet/blob/master/scanobjectnn.png">
+  <img width="900" src="https://github.com/ShiQiu0419/DRNet/blob/master/scanobjectnn.png">
 </p>
 
 ## Visualization
@@ -49,14 +49,12 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
 
 If you find our paper is useful, please cite:
 
-        @misc{qiu2020denseresolution,
-            title={Dense-Resolution Network for Point Cloud Classification and Segmentation},
-            author={Shi Qiu and Saeed Anwar and Nick Barnes},
-            year={2020},
-            eprint={2005.06734},
-            archivePrefix={arXiv},
-            primaryClass={cs.CV}
-        }
+    @inproceedings{qiu2021dense,
+      title={Dense-Resolution Network for Point Cloud Classification and Segmentation},
+      author={Qiu, Shi and Anwar, Saeed and Barnes, Nick},
+      booktitle={The IEEE Winter Conference on Applications of Computer Vision},
+      year={2021}
+    }
 
 ## Codes
 **The codes will be released Soon**
