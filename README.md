@@ -51,16 +51,13 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
 </p>
 
 ## Dataset
-**ShapeNet Part Dataset**
-
 Download the [ShapeNet Part Dataset](https://shapenet.cs.stanford.edu/media/shapenetcore_partanno_segmentation_benchmark_v0_normal.zip) and upzip it to your rootpath. Alternatively, you can modify the path of your dataset in `cfgs/config_partseg_gpus.yaml` and `cfgs/config_partseg_test.yaml`.
 
 ## CUDA Kernel Building
-
 For PyTorch version <= 0.4.0, please refer to [Relation-Shape-CNN](https://github.com/Yochengliu/Relation-Shape-CNN).  
 For PyTorch version >= 1.0.0, please refer to [Pointnet2_PyTorch](https://github.com/erikwijmans/Pointnet2_PyTorch).  
 
-**Note**
+**Note**  
 In our DRNet, we require Farthest Point Sampling (`pointnet2_utils.furthest_point_sample`) to down-sample the point cloud. Also, we adpot Feature Propagation (`pointnet2_utils.three_nn` and `pointnet2_utils.three_interpolate`) to up-sample the feature maps.
 
 ## Training
