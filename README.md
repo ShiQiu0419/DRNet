@@ -50,6 +50,10 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
   <img width="800" src="https://github.com/ShiQiu0419/DRNet/blob/master/figures/compare.png">
 </p>
 
+## Dataset
+**ShapeNet Part Dataset**
+Download the [ShapeNet Part Dataset](https://shapenet.cs.stanford.edu/media/shapenetcore_partanno_segmentation_benchmark_v0_normal.zip) and upzip it to your rootpath. Alternatively, you can modify the path of your dataset in `cfgs/config_partseg_gpus.yaml` and `cfgs/config_partseg_test.yaml`.
+
 ## Codes
 **The codes will be released Soon**
 
