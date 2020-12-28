@@ -13,7 +13,7 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
 
 ## Motivation
 <p align="center">
-  <img width="600" src="https://github.com/ShiQiu0419/DRNet/blob/master/intro.png">
+  <img width="600" src="https://github.com/ShiQiu0419/DRNet/blob/master/figures/intro.png">
 </p>
 
 ## Implementation
@@ -24,15 +24,15 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
 ## Experimental Results
 **Segmentation Task: [ShapeNet Part](https://shapenet.cs.stanford.edu/media/shapenetcore_partanno_segmentation_benchmark_v0_normal.zip)**
 <p align="center">
-  <img width="900" src="https://github.com/ShiQiu0419/DRNet/blob/master/shapenet.png">
+  <img width="900" src="https://github.com/ShiQiu0419/DRNet/blob/master/figures/shapenet.png">
 </p>
 
 **Classification Task: [ModelNet40](https://shapenet.cs.stanford.edu/media/modelnet40_ply_hdf5_2048.zip) and [ScanObjectNN](https://github.com/hkust-vgd/scanobjectnn/)**
 <p align="center">
-  <img width="450" src="https://github.com/ShiQiu0419/DRNet/blob/master/modelnet.png">
+  <img width="450" src="https://github.com/ShiQiu0419/DRNet/blob/master/figures/modelnet.png">
 </p>
 <p align="center">
-  <img width="900" src="https://github.com/ShiQiu0419/DRNet/blob/master/scanobjectnn.png">
+  <img width="900" src="https://github.com/ShiQiu0419/DRNet/blob/master/figures/scanobjectnn.png">
 </p>
 
 ## Visualization
@@ -42,12 +42,12 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
 
 *Second-row: in the deep layer.*
 <p align="center">
-  <img width="800" src="https://github.com/ShiQiu0419/DRNet/blob/master/visual.png">
+  <img width="800" src="https://github.com/ShiQiu0419/DRNet/blob/master/figures/visual.png">
 </p>
 
 **Comparisons**
 <p align="center">
-  <img width="800" src="https://github.com/ShiQiu0419/DRNet/blob/master/compare.png">
+  <img width="800" src="https://github.com/ShiQiu0419/DRNet/blob/master/figures/compare.png">
 </p>
 
 ## Citation
