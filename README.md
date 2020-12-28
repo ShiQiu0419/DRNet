@@ -50,6 +50,9 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
   <img width="800" src="https://github.com/ShiQiu0419/DRNet/blob/master/figures/compare.png">
 </p>
 
+## Codes
+**The codes will be released Soon**
+
 ## Citation
 
 If you find our paper is useful, please cite:
@@ -61,5 +64,5 @@ If you find our paper is useful, please cite:
       year={2021}
     }
 
-## Codes
-**The codes will be released Soon**
+## Acknowledgement
+We thank authors of [Pointnet2_PyTorch](https://github.com/erikwijmans/Pointnet2_PyTorch), [Relation-Shape-CNN](https://github.com/Yochengliu/Relation-Shape-CNN), [DGCNN](https://github.com/WangYueFt/dgcnn/tree/master/pytorch) for sharing their codes.
