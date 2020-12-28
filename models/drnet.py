@@ -428,7 +428,7 @@ class DRNET(nn.Module):
         #############################################################################
 
         #############################################################################
-        # Fully-resolution Branch
+        # Full-resolution Branch
         # Error-minimizing module 2:
         # Encoding
         x2_1 = x1 # B,64,N
