@@ -55,8 +55,11 @@ Point cloud analysis is attracting attention from Artificial Intelligence resear
 
 Download the [ShapeNet Part Dataset](https://shapenet.cs.stanford.edu/media/shapenetcore_partanno_segmentation_benchmark_v0_normal.zip) and upzip it to your rootpath. Alternatively, you can modify the path of your dataset in `cfgs/config_partseg_gpus.yaml` and `cfgs/config_partseg_test.yaml`.
 
-## Codes
-**The codes will be released Soon**
+## Training
+
+    sh train_partseg_gpus.sh
+        
+Due to the complexity of DRNet, we support Multi-GPU via `nn.DataParallel <https://pytorch.org/docs/stable/nn.html#torch.nn.DataParallel>`. You can also adjust other parameters such as batch size or the number of input points in `cfgs/config_partseg_gpus.yaml`, in oder to fit the memory limit of your device.
 
 ## Citation
 
