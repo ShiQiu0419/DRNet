@@ -26,7 +26,7 @@ torch.manual_seed(seed)
 torch.cuda.manual_seed(seed)       
 torch.cuda.manual_seed_all(seed) 
 
-parser = argparse.ArgumentParser(description='DRNET Shape Part Segmentation Training')
+parser = argparse.ArgumentParser(description='DRNET Shape Part Segmentation Test')
 parser.add_argument('--config', default='cfgs/config_partseg_gpus.yaml', type=str)
 
 NUM_REPEAT = 300
