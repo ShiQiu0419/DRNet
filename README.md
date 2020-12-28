@@ -57,15 +57,20 @@ Download the [ShapeNet Part Dataset](https://shapenet.cs.stanford.edu/media/shap
 For PyTorch version <= 0.4.0, please refer to [Relation-Shape-CNN](https://github.com/Yochengliu/Relation-Shape-CNN).  
 For PyTorch version >= 1.0.0, please refer to [Pointnet2_PyTorch](https://github.com/erikwijmans/Pointnet2_PyTorch).  
 
-**Note**  
-In our DRNet, we require Farthest Point Sampling (`pointnet2_utils.furthest_point_sample`) to down-sample the point cloud. Also, we adpot Feature Propagation (`pointnet2_utils.three_nn` and `pointnet2_utils.three_interpolate`) to up-sample the feature maps.
+**Note:**  
+In our DRNet, we use Farthest Point Sampling (e.g., `pointnet2_utils.furthest_point_sample`) to down-sample the point cloud. Also, we adpot Feature Propagation (e.g., `pointnet2_utils.three_nn` and `pointnet2_utils.three_interpolate`) to up-sample the feature maps.
 
 ## Training
 
     sh train_partseg_gpus.sh
         
-Due to the complexity of DRNet, we support Multi-GPU via `nn.DataParallel`. You can also adjust other parameters such as batch size or the number of input points in `cfgs/config_partseg_gpus.yaml`, in oder to fit the memory limit of your device.
+Due to the complexity of DRNet, we support Multi-GPU via `nn.DataParallel`. You can also adjust other parameters such as batch size or the number of input points in `cfgs/config_partseg_gpus.yaml`, in order to fit the memory limit of your device.
 
+## Voting Evaluation
+You can set the path of your pre-trained model in `cfgs/config_partseg_test.yaml`, then run:
+
+    sh voting_test.sh
+   
 ## Citation
 
 If you find our paper is useful, please cite:
