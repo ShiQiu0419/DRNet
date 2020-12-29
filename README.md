@@ -6,7 +6,7 @@ This repository is for Dense-Resolution Networ (DRNet) introduced in the followi
 Acceptd in *IEEE Winter Conference on Applications of Computer Vision* (WACV 2021)
 
 ## Paper
-The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2005.06734)
+The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2005.06734).
 
 ## Motivation
 <p align="center">
