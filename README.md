@@ -6,7 +6,7 @@ This repository is for Dense-Resolution Networ (DRNet) introduced in the followi
 acceptd in IEEE Winter Conference on Applications of Computer Vision (WACV 2021)
 
 ## Paper
-The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2005.06734) or [here (CVF)](https://openaccess.thecvf.com/content/WACV2021/papers/Qiu_Dense-Resolution_Network_for_Point_Cloud_Classification_and_Segmentation_WACV_2021_paper.pdf).
+The paper can be downloaded from [here (arXiv)](https://arxiv.org/abs/2005.06734) or [here (CVF)](https://openaccess.thecvf.com/content/WACV2021/papers/Qiu_Dense-Resolution_Network_for_Point_Cloud_Classification_and_Segmentation_WACV_2021_paper.pdf), together with [supplementary material](https://openaccess.thecvf.com/content/WACV2021/supplemental/Qiu_Dense-Resolution_Network_for_WACV_2021_supplemental.pdf).
 
 ## Motivation
 <p align="center">
