@@ -1,4 +1,8 @@
 # Dense-Resolution Network for Point Cloud Classification and Segmentation
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dense-resolution-network-for-point-cloud/3d-point-cloud-classification-on-scanobjectnn)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-scanobjectnn?p=dense-resolution-network-for-point-cloud)  
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dense-resolution-network-for-point-cloud/3d-part-segmentation-on-shapenet-part)](https://paperswithcode.com/sota/3d-part-segmentation-on-shapenet-part?p=dense-resolution-network-for-point-cloud)  
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/dense-resolution-network-for-point-cloud/3d-point-cloud-classification-on-modelnet40)](https://paperswithcode.com/sota/3d-point-cloud-classification-on-modelnet40?p=dense-resolution-network-for-point-cloud)  
+
 This repository is for Dense-Resolution Networ (DRNet) introduced in the following paper
 
 [Shi Qiu](https://shiqiu0419.github.io/) [Saeed Anwar](https://saeed-anwar.github.io/),  [Nick Barnes](http://users.cecs.anu.edu.au/~nmb/)  
